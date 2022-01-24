@@ -1,3 +1,3 @@
 # react_native_gallery_slider
 ![](src/images/image.jpg)
-![](https://user-images.githubusercontent.com/32832295/150751379-33ab5b2f-83e4-4856-80ac-c487a7165c91.mp4)
+![video](https://user-images.githubusercontent.com/32832295/150753057-45711250-7236-44b5-a575-e22f49824759.gif)
